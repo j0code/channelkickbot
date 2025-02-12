@@ -1,5 +1,5 @@
 # channelkickbot
-Discord bot I made form u/HelplessxDragon on Reddit that disconnects everyone from voice after set amount of time
+Discord bot I made for u/HelplessxDragon on Reddit that disconnects everyone from voice after a set amount of time.
 
 ### Installation
 ```sh
